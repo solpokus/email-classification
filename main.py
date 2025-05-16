@@ -92,7 +92,7 @@ def classify_email(text):
 
 # sample_email = "Please see attached invoice INV-991 for the month of March."
 # sample_email = "Hi Preflight Team,/n Please take action for Preflight Information"
-sample_email = "Dear RAMA/JUAN MR, \n\nThis is a friendly reminder of your upcoming travel departure.\n\nPhone List:\n6285780809136 - RAMA/JUAN MR\n6281224900871 - YUHUDUADUA MR\n6287775681352 - FADLI MR\n\n\n*Airline*: Vietjet Aviation\n*Flight Number*: VJ874\n*From*:  CGK Soekarno Hatta Intl | Jakarta\n*To*:   AMS Schiphol Arpt | Amsterdam  \n*Departure Date/Time*:  16 May 2025 20:15\n*Arrival Date/Time*:  09 May 2025 07:50\n\nThis information is taken from your booking itinerary and is subject to change.  Please consult directly with your airline for the latest departure information.  \nHave a safe and pleasant flight!\n\nYour friends, at \n==========================="
+sample_email = "Dear RAMA/JUAN MR, \n\nThis is a friendly reminder of your upcoming travel departure.\n\nPhone List:\n628578080 - RAMA/JUAN MR\n628122490 - YUHUDUADUA MR\n628777568 - FADLI MR\n\n\n*Airline*: Vietjet Aviation\n*Flight Number*: VJ874\n*From*:  CGK Soekarno Hatta Intl | Jakarta\n*To*:   AMS Schiphol Arpt | Amsterdam  \n*Departure Date/Time*:  16 May 2025 20:15\n*Arrival Date/Time*:  09 May 2025 07:50\n\nThis information is taken from your booking itinerary and is subject to change.  Please consult directly with your airline for the latest departure information.  \nHave a safe and pleasant flight!\n\nYour friends, at \n==========================="
 label = classify_email(sample_email)
 print(f"Classified as: {label}")
 
