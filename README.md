@@ -5,7 +5,7 @@
 Please using python version : Python 3.10.11
 
 ```
-cd email_ai_project
+cd email-classification
 pip install -r requirements.txt
 python main.py
 ```
