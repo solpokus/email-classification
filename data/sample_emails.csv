@@ -1,7 +1,101 @@
 email_body,label
-"Dear customer, your invoice for March is attached.",invoice
-"Join us for our tech webinar on AI trends.",technology
-"This is a support ticket regarding your printer issue.",ticketing
-"Please find attached the purchase order.",purchasing
-"Discover new marketing insights in our report.",marketing
-"Please take action for Preflight Information",ticketing
+"Dear Client,
+
+Your invoice INV-20348 for April 2025 is now available. The total amount due is $3,540. Please ensure payment is made by May 30, 2025.
+
+Thank you.
+- Finance Department",invoice
+"Hello,
+
+Attached is the billing statement for services rendered between March 1-31. Kindly process payment to the bank account listed in the invoice by April 15th.
+
+Regards,
+Accounting",invoice
+"This is a reminder that invoice #12998 is past due. Please remit payment immediately to avoid service interruption.
+
+Outstanding Balance: $1,200.00
+Due Date: April 5, 2025",invoice
+"Hi team,
+
+We-ve included the invoice for the Q1 cloud usage in this email. If you have any questions about the charges, contact us at billing@example.com.
+
+Invoice ID: Q1-2025-CLD",invoice
+"Please find the invoice INV-778923 attached. The amount of $9,245 is due within 15 days. A late fee will apply after the due date.
+
+Thank you for your business.",invoice
+"Dear Customer,
+
+Here is your invoice for consulting services in April.
+
+Invoice No: C-9451
+Total: $750.00
+Due by: May 10, 2025
+
+Best regards, Finance Team",invoice
+"Hi,
+
+This is your monthly billing alert. Please review invoice #5643-A which summarizes your subscription services. The balance is due by the end of this month.
+
+Thanks,
+Billing Dept",invoice
+"Good day,
+
+Your invoice for the recent equipment rental is attached. Payment terms: Net 15 days.
+Amount Due: $4,125.00
+Due Date: May 18, 2025
+
+Accounts Payable
+ABC Rentals Inc.",invoice
+"Hello,
+
+Enclosed is your invoice for Google Cloud usage - April 2025.
+
+Billing ID: GCU-948284
+Due Date: May 5, 2025
+Amount: $3,750.00
+
+For queries, contact cloud-billing@example.com",invoice
+"Kindly find your invoice (Ref#: SFT-5001) for software licensing renewal. The total amount is $2,000.00 and is due within 10 days.
+
+Thank you,
+Software Licensing",invoice
+Our engineering team has just released a critical update for version 4.2.1 of our mobile SDK. We recommend updating as soon as possible.,technology
+We have released a new version of our API. Read the changelog and upgrade today.,technology
+"Hi Team, We are planning a system upgrade on Saturday from 2 AM to 5 AM UTC. During this window, our servers may experience brief downtime. The upgrade will improve database indexing performance and API response times. Please notify your teams and plan accordingly.",technology
+Our engineering team has fixed critical security bugs in the recent patch update.,technology
+We've added two-factor authentication to enhance your account security. Learn how to enable it here.,technology
+Your cloud deployment is complete. You can access your services via the dashboard starting today.,technology
+The latest quarterly developer API changes have been published. Please review to avoid integration issues.,technology
+We've detected an unusual login attempt to your developer portal. Please verify this activity.,technology
+System downtime reported on March 10 has been resolved. Full service is now restored.,technology
+A new AI feature has been integrated into our analytics platform. Enable it to gain deeper insights from your data.,technology
+this is a support ticket regarding your printer issue.,ticketing
+Your support ticket #TCK-2341 has been received and is being reviewed by our team.,ticketing
+The issue you reported in ticket #4590 is now resolved. Please confirm if everything is working.,ticketing
+"Hello, Your support ticket #TCK-84921 regarding login issues has been received. Our technical team is currently investigating the issue and will get back to you within 24 hours. Thank you for your patience.",ticketing
+We have escalated your issue regarding payment failure to our technical department.,ticketing
+Your service request for printer maintenance is scheduled for tomorrow.,ticketing
+Please confirm if your issue has been resolved so we can close the support ticket.,ticketing
+Our support team responded to your request: "Unable to access dashboard" see reply.,ticketing
+We've reopened ticket 231054 based on your latest reply.,ticketing
+Survey: How satisfied are you with the resolution to your last support issue?,ticketing
+"Hi there! Discover how our new AI-powered tools can help automate your workflow and boost productivity by 40%. Sign up for a free demo today and receive an exclusive whitepaper on optimizing digital operations. Best, The Marketing Team",marketing
+discover new marketing insights in our report.,marketing
+Discover new insights with our latest marketing trends report. Download now!,marketing
+Don't miss out on our exclusive webinar on boosting your brand with AI.,marketing
+Unlock 30% off your next purchase of business software during our Cyber Monday sale.,marketing
+Don't miss our exclusive newsletter for top marketing trends in 2025!,marketing
+Sign up today for our webinar: "How to Double Your Email ROI.",marketing
+Refer a friend and get $50 credit! Our way of saying thanks.,marketing
+Get access to our free eBook: "The Future of Digital Marketing.",marketing
+Big news: Our summer campaign just launched. Check out the new ad series!,marketing
+"The conference room booking for your team is confirmed on July 15, 9 AM-5 PM. ",booking
+We've received your booking request for the photography studio rental.,booking
+Enjoy your trip! Your cruise itinerary and boarding documents are attached. ,booking
+Thank you for booking with SkyFly Airlines. Your flight to Tokyo departs May 4 at 6 PM.,booking
+Your hotel reservation for Bali from June 20-25 has been confirmed.,booking
+The rental car you booked is ready for pickup on August 12 at 9 AM.,booking
+Please confirm your hotel booking for 3 nights starting June 10 at Grand Palace Hotel.,booking
+Your flight booking #FL-9083 from NYC to LA has been successfully completed.,booking
+Thank you for booking with SkyTrain. Your ticket for the 5:30 PM express is attached.,booking
+Your appointment has been booked for June 20 at 2:00 PM. Please arrive 15 minutes early.,booking
